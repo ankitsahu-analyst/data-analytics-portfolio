@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# data-Scientist-portfolio
 28-week Data Analytics &amp; Data Science learning journey — Excel, SQL, Python, Power BI, Tableau, ML
 
 About Me
