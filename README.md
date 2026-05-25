@@ -1,5 +1,5 @@
 # data-Scientist-portfolio
-28-week Data Analytics &amp; Data Science learning journey — Excel, SQL, Python, Power BI, Tableau, ML
+28-week Data Scientist &amp; Data Science learning journey — Excel, SQL, Python, Power BI, Tableau, ML
 
 About Me
 My name is ankit sahu I am an aspiring Data Scientist who is following a 28-week structured curriculum.
@@ -21,7 +21,7 @@ Email: ankitsahu65781@gmail.com
 week1-excel/week1-excel placeholder.txt
 
 
-Week 1 — Excel Sales Data Analysis
+Week 1 — Excel Sales Data Scientist
 Project Overview
 
 Analyzed real-world sales data in Excel using formulas, data cleaning techniques, and PivotTables.
